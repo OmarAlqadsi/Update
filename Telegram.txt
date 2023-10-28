@@ -1,0 +1,13 @@
+Version 3.0.0 Changelog:
+
+> Source code updated to v10.1.1.0. 
+> Stories for Channels: Users can grant their favorite channels the ability to post stories by giving them boosts.
+> Reaction Stickers in Stories: Both users and channels can add reaction stickers to their stories.
+> Your Music in Stories: Audio files on your device can be used in photo and video stories.
+> View-Once Media: Self-destructing media is even easier to use, has a new look, and a new 'View Once' setting.
+> New Login Alerts: New logins now display an alert at the top of your chat list.
+> Added option to open profile pics instead of stories
+> Added option to show profile pic date instead of status
+> Added option to share profile pic directly from profile
+> Tap and hold profile pic to open profile pics, even if user has stories pics
+> Bug fixes and other minor improvements
